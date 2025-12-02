@@ -109,9 +109,9 @@
 
   <!-- ROW 1 -->
   <tr>
+     <td align="center" width="110"><img src="https://skillicons.dev/icons?i=c" width="40"><br>C</td>
     <td align="center" width="110"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40"><br>C++</td>
     <td align="center" width="110"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="40"><br>Python</td>
-    <td align="center" width="110"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="40"><br>JavaScript</td>
     <td align="center" width="110"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40"><br>MySQL</td>
     <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mongodb" width="40"><br>MongoDB</td>
   </tr>
