@@ -315,11 +315,11 @@ About Me = {
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/lakshyarawat04">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyarawat04&theme=radical&border=7F3FBF&background=0D1117" alt="Shivam's GitHub streak"/>
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/lakshyarawat04">
@@ -375,6 +375,6 @@ About Me = {
 
 
 
-![snake gif](https://github.com/lakshyarawat04/lakshyarawat04/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/itshivams/itshivams/blob/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
